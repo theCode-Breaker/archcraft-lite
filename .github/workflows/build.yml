@@ -39,6 +39,6 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: ${{ env.DATE }}
           prerelease: false
-          title: "Xelph"
+          title: "Archcraft-Lite"
           files: |
             out/*
